@@ -1,0 +1,152 @@
+[
+  {
+    "post_id": "p01",
+    "title": "Running local LLMs on a laptop",
+    "body": "People are experimenting with local LLMs and lightweight inference on consumer laptops. Llama models are popular for local use.",
+    "subreddit": "LocalLLaMA",
+    "author": "user_a",
+    "created_utc": "2025-01-15T10:00:00Z",
+    "url": "https://reddit.com/p01",
+    "comments": []
+  },
+  {
+    "post_id": "p02",
+    "title": "4-bit quantization for local models",
+    "body": "Quantization and GGUF formats help reduce memory usage when running local models.",
+    "subreddit": "LocalLLaMA",
+    "author": "user_b",
+    "created_utc": "2025-02-10T09:00:00Z",
+    "url": "https://reddit.com/p02",
+    "comments": []
+  },
+  {
+    "post_id": "p03",
+    "title": "Open source models are improving",
+    "body": "Open source LLMs are becoming more capable and useful for local experimentation.",
+    "subreddit": "MachineLearning",
+    "author": "user_c",
+    "created_utc": "2025-03-20T08:00:00Z",
+    "url": "https://reddit.com/p03",
+    "comments": []
+  },
+  {
+    "post_id": "p04",
+    "title": "AI safety for open models",
+    "body": "AI safety discussions focus on alignment, evaluation and risks when open models are widely available.",
+    "subreddit": "artificial",
+    "author": "user_d",
+    "created_utc": "2025-04-15T08:00:00Z",
+    "url": "https://reddit.com/p04",
+    "comments": []
+  },
+  {
+    "post_id": "p05",
+    "title": "Improving RAG retrieval quality",
+    "body": "RAG systems depend on good retrieval. Hybrid retrieval can combine keyword and vector signals to improve relevance.",
+    "subreddit": "MachineLearning",
+    "author": "user_e",
+    "created_utc": "2025-06-05T10:00:00Z",
+    "url": "https://reddit.com/p05",
+    "comments": []
+  },
+  {
+    "post_id": "p06",
+    "title": "Open source LLM tooling",
+    "body": "Ollama and other tools make open source models easier to run and test.",
+    "subreddit": "LocalLLaMA",
+    "author": "user_f",
+    "created_utc": "2025-08-12T10:00:00Z",
+    "url": "https://reddit.com/p06",
+    "comments": []
+  },
+  {
+    "post_id": "p07",
+    "title": "Quantized models and memory limits",
+    "body": "Smaller quantized models are useful when GPU memory is limited.",
+    "subreddit": "LocalLLaMA",
+    "author": "user_g",
+    "created_utc": "2025-10-10T10:00:00Z",
+    "url": "https://reddit.com/p07",
+    "comments": []
+  },
+  {
+    "post_id": "p08",
+    "title": "AI regulation and open models",
+    "body": "AI regulation and governance may affect how open models are released and used.",
+    "subreddit": "artificial",
+    "author": "user_h",
+    "created_utc": "2025-11-01T10:00:00Z",
+    "url": "https://reddit.com/p08",
+    "comments": []
+  },
+  {
+    "post_id": "p09",
+    "title": "Smaller models are getting better",
+    "body": "Smaller models can be useful for local inference because they reduce memory and latency requirements.",
+    "subreddit": "LocalLLaMA",
+    "author": "user_i",
+    "created_utc": "2026-01-08T10:00:00Z",
+    "url": "https://reddit.com/p09",
+    "comments": []
+  },
+  {
+    "post_id": "p10",
+    "title": "AI safety evaluation methods",
+    "body": "Safety evaluation and alignment remain important for new language models.",
+    "subreddit": "artificial",
+    "author": "user_j",
+    "created_utc": "2026-01-12T10:00:00Z",
+    "url": "https://reddit.com/p10",
+    "comments": []
+  },
+  {
+    "post_id": "p11",
+    "title": "Local Llama workflows",
+    "body": "Local Llama workflows combine Ollama, quantization and efficient inference for development.",
+    "subreddit": "LocalLLaMA",
+    "author": "user_k",
+    "created_utc": "2026-01-20T10:00:00Z",
+    "url": "https://reddit.com/p11",
+    "comments": []
+  },
+  {
+    "post_id": "p12",
+    "title": "Efficient inference for smaller models",
+    "body": "Efficient inference is becoming important as people deploy smaller models locally.",
+    "subreddit": "MachineLearning",
+    "author": "user_l",
+    "created_utc": "2026-02-02T10:00:00Z",
+    "url": "https://reddit.com/p12",
+    "comments": []
+  },
+  {
+    "post_id": "p13",
+    "title": "Graph retrieval with RAG",
+    "body": "Graph retrieval can add relationships to RAG systems. Knowledge graphs can connect entities and improve context retrieval.",
+    "subreddit": "MachineLearning",
+    "author": "user_m",
+    "created_utc": "2026-02-10T10:00:00Z",
+    "url": "https://reddit.com/p13",
+    "comments": []
+  },
+  {
+    "post_id": "p14",
+    "title": "AI governance and safety",
+    "body": "Governance, regulation and safety remain major topics as AI systems become more capable.",
+    "subreddit": "artificial",
+    "author": "user_n",
+    "created_utc": "2026-03-01T10:00:00Z",
+    "url": "https://reddit.com/p14",
+    "comments": []
+  },
+  {
+    "post_id": "p15",
+    "title": "Llama versus Gemma for coding",
+    "body": "Developers compare Llama and Gemma for coding tasks and local workflows.",
+    "subreddit": "LocalLLaMA",
+    "author": "user_o",
+    "created_utc": "2026-03-15T10:00:00Z",
+    "url": "https://reddit.com/p15",
+    "comments": []
+  }
+]
